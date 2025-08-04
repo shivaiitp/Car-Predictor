@@ -48,13 +48,13 @@ npm install
 - Start backend:
   ```bash
   cd ../server
-  npm start
+  npm run dev OR npm start
   ```
 
 - Start frontend:
   ```bash
   cd ../client
-  npm start
+  npm run dev
   ```
 
 ### 5. View in browser
